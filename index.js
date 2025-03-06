@@ -31,7 +31,7 @@ app.post('/save/data', async(req,res)=>{
 })
 
 app.get('/', (req,res)=>{
-    res.status(200).send("Hello World");
+    res.status(200).send("Hello World to evryone");
 })
 
 app.
